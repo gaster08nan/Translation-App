@@ -1,0 +1,4 @@
+tmp/
+mlruns/
+__pycache__/
+weights/
